@@ -1,0 +1,28 @@
+.father{
+    display: flex;
+    justify-content: space-evenly;
+}
+.box1{
+    width: 250px;
+    height: 350px;
+    background: white;
+    box-sizing: border-box;
+    border: 1px solid #0a0a0a;
+    text-align: center;
+
+
+}
+
+.button {
+    width: 150px;
+    height: 30px;
+    box-sizing: border-box;
+    border: 2px solid grey;
+    margin-top: 150px;
+    margin-left: 50px;
+    text-align: center;
+}
+h3{
+    margin-left: calc(253.98 - 50%);
+    font-family: Bahnschrift;
+}
